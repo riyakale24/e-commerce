@@ -76,7 +76,7 @@ const Sidebar = () => {
     <h1 className='text-2xl font-bold mb-8 text-primary'>React Store</h1>
     <section className='space-y-6'>
       <div>
-        <label htmlFor="search" className='block text-sm font-medium text-gray-700 mb-1'>Search</label>
+        <label htmlFor="search" className='block text-lg font-semibold text-gray-800 mb-2'>Search</label>
         <input 
           type='text' 
           id="search"
